@@ -1,3 +1,35 @@
-p{
-    color: green;
+body{
+    background-color: darkgrey;
+}
+header{
+    background-color: blue;
+    padding: 3%;
+}
+.logo{
+    background-color: darkgoldenrod;
+}
+
+nav{
+    background-color: aquamarine;
+}
+main{
+    background-color: chartreuse;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+section{
+    background-color: bisque;
+}
+footer{
+    background-color: blueviolet;
+    padding: 3%;
+}
+
+.cabecalho{
+    padding: 3%;
+}
+
+.rodape{
+    padding: 3%;
 }
